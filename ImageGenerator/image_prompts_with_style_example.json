@@ -1,0 +1,21 @@
+{
+  "style_config": {
+    "base_style": "professional business visualization style, clean modern design, data-focused infographics, clear typography, corporate color palette",
+    "seed": 1000,
+    "project": "game-market-research"
+  },
+  "images": [
+    {
+      "id": "example-bar-chart",
+      "prompt": "Bar chart showing game revenue by platform",
+      "size": "800x600",
+      "style_override": null
+    },
+    {
+      "id": "example-pie-chart",
+      "prompt": "Pie chart of mobile game genres market share",
+      "size": "600x600",
+      "style_override": null
+    }
+  ]
+}

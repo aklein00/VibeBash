@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "id": "test-no-crop",
+      "image": "Simple geometric pattern with red circle and blue square",
+      "size": "600x400",
+      "crop": false
+    },
+    {
+      "id": "test-with-crop",
+      "image": "Simple geometric pattern with green triangle and yellow star",
+      "size": "256x256",
+      "crop": true
+    }
+  ]
+}

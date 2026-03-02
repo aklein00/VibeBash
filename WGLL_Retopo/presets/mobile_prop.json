@@ -1,0 +1,14 @@
+{
+  "name": "Mobile Prop",
+  "description": "Simple prop or accessory for mobile games",
+  "target_tri_count": 1000,
+  "target_quad_count": 500,
+  "density_weights": {
+    "uniform": 1.0
+  },
+  "polyretopo_settings": {
+    "faceUniformity": 0.7,
+    "anisotropy": 0.5,
+    "preserveHardEdges": true
+  }
+}

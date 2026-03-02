@@ -1,0 +1,51 @@
+category,screen,component,asset_name,variant,dimensions,format,notes
+UI,Global,Icon,icon_currency_coin,default,128x128,svg,"soft currency"
+UI,Global,Icon,icon_currency_gem,default,128x128,svg,"hard currency"
+UI,Global,Icon,icon_currency_key,default,128x128,svg,"crate keys"
+UI,Global,Icon,icon_dust,default,128x128,svg,"dupe conversion"
+UI,Global,Button,btn_primary,default,9-slice 256x96,png,"CTA"
+UI,Global,Button,btn_secondary,default,9-slice 256x96,png,
+UI,Global,Badge,badge_notification_red,default,64x64,png,"red dot"
+UI,Global,Timer,timer_chip,default,256x96,png,
+UI,Global,Progress,progress_bar,default,1024x64,png,
+Home,Home,Header,header_player_info,default,1242x240,png,
+Home,Home,Widget,widget_daily_goals,default,1024x512,png,
+Home,Home,Widget,widget_season_track,default,1242x360,png,
+Home,Home,Banner,banner_carousel,default,1242x360,png,
+Play,Tap,Canvas,background_factory,day,1242x2208,png,"device scale"
+Play,Tap,Canvas,background_factory,night,1242x2208,png,
+Play,Tap,Interactive,tap_hotspot,default,512x512,png,"stateful"
+Play,Tap,Hud,button_tap,default,512x512,png,
+Play,Tap,Hud,boost_icon_x2_income,default,256x256,png,
+Play,Tap,Hud,boost_icon_auto_tapper,default,256x256,png,
+Play,Tap,Hud,boost_icon_crit_chance,default,256x256,png,
+Play,Tap,Hud,boost_icon_speed,default,256x256,png,
+Play,Tap,Hud,chip_timer_boost,default,256x96,png,
+Upgrades,Upgrades,Card,upgrade_card_machine,default,512x768,png,
+Upgrades,Upgrades,Card,upgrade_card_manager,default,512x768,png,
+Upgrades,Upgrades,Card,upgrade_card_booster,default,512x768,png,
+Collection,Collection,Grid,skin_card,common,512x768,png,
+Collection,Collection,Grid,skin_card,rare,512x768,png,
+Collection,Collection,Grid,skin_card,epic,512x768,png,
+Collection,Collection,Grid,skin_card,mythic,512x768,png,
+Events,Events,Tile,event_tile,default,768x512,png,
+Clan,Clan,Widget,clan_boost_meter,default,1024x256,png,
+Clan,Clan,Widget,donation_panel,default,1024x512,png,
+Shop,Shop,Tile,deal_tile_small,default,768x512,png,
+Shop,Shop,Tile,deal_tile_large,default,1024x768,png,
+Shop,Shop,Pack,starter_bundle_card,default,1024x768,png,
+Shop,Shop,Icon,icon_best_value_tag,default,256x128,png,
+Pass,Pass,Track,season_track,default,1242x360,png,
+Rewards,Reveal,FX,crate_open_stage1,default,fx-json,json,"particles"
+Rewards,Reveal,FX,crate_open_stage2,default,fx-json,json,
+Rewards,Reveal,FX,crate_open_stage3,default,fx-json,json,
+Rewards,Inventory,Icon,rarity_common,default,128x128,svg,
+Rewards,Inventory,Icon,rarity_rare,default,128x128,svg,
+Rewards,Inventory,Icon,rarity_epic,default,128x128,svg,
+Rewards,Inventory,Icon,rarity_mythic,default,128x128,svg,
+Settings,Settings,Panel,settings_panel,default,1242x2208,png,
+Audio,Global,SFX,click_ui,default,44.1kHz,wav,
+Audio,Global,SFX,claim_reward,default,44.1kHz,wav,
+Audio,Global,SFX,open_crate,default,44.1kHz,wav,
+Audio,Global,SFX,boost_activate,default,44.1kHz,wav,
+Localization,Global,String,en_US,default,.json,json,"base strings file"

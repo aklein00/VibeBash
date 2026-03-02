@@ -1,0 +1,55 @@
+{
+  "_comment": "Template specifications for WGLL Retopo topology templates. Templates are OBJ files with known landmark vertices.",
+  "head_stylized": {
+    "file": "head_stylized.obj",
+    "description": "Stylized/cartoon head with proper eye and mouth loops",
+    "target_quad_count": 500,
+    "symmetry_axis": "x",
+    "landmarks": {},
+    "lod_tiers": {
+      "hero": 500,
+      "mid": 250,
+      "background": 120
+    },
+    "status": "planned"
+  },
+  "head_generic": {
+    "file": "head_generic.obj",
+    "description": "Realistic human head with detailed eye and mouth topology",
+    "target_quad_count": 800,
+    "symmetry_axis": "x",
+    "landmarks": {},
+    "lod_tiers": {
+      "hero": 800,
+      "mid": 400,
+      "background": 200
+    },
+    "status": "planned"
+  },
+  "body_stylized": {
+    "file": "body_stylized.obj",
+    "description": "Stylized/cartoon biped body with joint-aware topology",
+    "target_quad_count": 1500,
+    "symmetry_axis": "x",
+    "landmarks": {},
+    "lod_tiers": {
+      "hero": 1500,
+      "mid": 750,
+      "background": 350
+    },
+    "status": "planned"
+  },
+  "hand_mitten": {
+    "file": "hand_mitten.obj",
+    "description": "Simple mitten hand for mobile characters",
+    "target_quad_count": 80,
+    "symmetry_axis": "x",
+    "landmarks": {},
+    "lod_tiers": {
+      "hero": 80,
+      "mid": 40,
+      "background": 20
+    },
+    "status": "planned"
+  }
+}

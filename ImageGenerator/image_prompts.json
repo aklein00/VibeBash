@@ -1,0 +1,205 @@
+[
+  {
+    "id": "console-family-games",
+    "prompt": "Family-friendly games performance metrics",
+    "size": "180",
+    "reasoning": "Wide bar chart format; bright friendly visualization; compact layout.",
+    "image": "Family-friendly games performance metrics. Bar chart comparing sales, engagement for top family titles. Bright, friendly visualization. Compact layout."
+  },
+  {
+    "id": "console-monetization-model",
+    "prompt": "Console monetization approach diagram",
+    "size": "180",
+    "reasoning": "Wide flow diagram; platform cuts shown; clean business model.",
+    "image": "Console monetization approach diagram. Show: Base Game \u2192 DLC \u2192 Microtransactions \u2192 Subscriptions. Include platform holder cuts. Clean business model viz."
+  },
+  {
+    "id": "data-source-icons-grid-showing-steam-app-store-go",
+    "prompt": "Platform data source icons",
+    "size": "300x200",
+    "reasoning": "Square icon grid; official logos used; clean white background.",
+    "image": "Platform data source icons. Clean grid of logos: Steam, Apple App Store, Google Play, Xbox, PlayStation, Nintendo, Epic Games Store, itch.io. Official colors, consistent sizing. White background."
+  },
+  {
+    "id": "mobile-retention-rates",
+    "prompt": "Mobile retention benchmarks bar chart",
+    "size": "180",
+    "reasoning": "Wide format for horizontal bars; D1/D7/D30 metrics shown; compact visualization.",
+    "image": "Mobile game retention benchmarks bar chart. Show D1, D7, D30 retention rates by genre. Include industry average line. Clear comparison visualization. Compact horizontal layout."
+  },
+  {
+    "id": "steam-monetization-timeline",
+    "prompt": "PC game monetization timeline",
+    "size": "180",
+    "reasoning": "Wide horizontal timeline; revenue curves included; compact visualization.",
+    "image": "PC game monetization timeline. Horizontal timeline: Launch \u2192 DLC 1 \u2192 Season Pass \u2192 DLC 2 \u2192 GOTY Edition. Include revenue curves. Compact visualization."
+  },
+  {
+    "id": "steam-price-distribution",
+    "prompt": "Steam game pricing distribution histogram",
+    "size": "180",
+    "reasoning": "Wide histogram format; price ranges with success rates; highlight sweet spots.",
+    "image": "Steam game pricing distribution histogram. Show price ranges ($0-60) with success rates. Highlight sweet spots. Include free-to-play segment. Compact visualization."
+  },
+  {
+    "id": "tactical-team-extracting-from-industrial-facility-",
+    "prompt": "Dramatic extraction scene",
+    "size": "600x400",
+    "reasoning": "Square action composition; rooftop helipad setting; cinematic lighting.",
+    "image": "Dramatic extraction scene. Four operators at extraction point (rooftop helipad), under fire, smoke grenades deployed. One carrying loot, one wounded being helped, two providing cover. Red emergency lighting, helicopter searchlight. Cinematic composition."
+  },
+  {
+    "id": "premium-mobile-game-price-points-and-positioning-c",
+    "prompt": "Premium mobile game price points and positioning chart.",
+    "size": "300x200",
+    "reasoning": "Required by market-analysis/platform-analysis/mobile.html - Premium mobile game price points and positioning chart.",
+    "image": "Premium mobile game price points and positioning chart."
+  },
+  {
+    "id": "scatter-plot-showing-relationship-between-price-an",
+    "prompt": "Scatter plot showing relationship between price and Steam review scores.",
+    "size": "300x250",
+    "reasoning": "Required by market-analysis/platform-analysis/steam.html - Scatter plot showing relationship between price and Steam review scores.",
+    "image": "Scatter plot showing relationship between price and Steam review scores."
+  },
+  {
+    "id": "professional-studio-lighting-setup-for-miniature-p",
+    "prompt": "Professional studio lighting setup for miniature photography with key lights, fill lights, and rim lighting.",
+    "size": "300x250",
+    "reasoning": "Required by game-concepts/cozy-diorama/art-style.html - Professional studio lighting setup for miniature photography with key lights, fill lights, and rim l",
+    "image": "Professional studio lighting setup for miniature photography with key lights, fill lights, and rim lighting."
+  },
+  {
+    "id": "natural-material-swatches-showing-wood-grains-ston",
+    "prompt": "Natural material swatches showing wood grains, stone textures, fabric weaves, and metal finishes.",
+    "size": "500x300",
+    "reasoning": "Required by game-concepts/cozy-diorama/art-style.html - Natural material swatches showing wood grains, stone textures, fabric weaves, and metal finishes.",
+    "image": "Natural material swatches showing wood grains, stone textures, fabric weaves, and metal finishes."
+  },
+  {
+    "id": "scale-comparison-showing-miniature-objects-next-to",
+    "prompt": "Scale comparison showing miniature objects next to ruler measurements and real-world references.",
+    "size": "300x250",
+    "reasoning": "Required by game-concepts/cozy-diorama/art-style.html - Scale comparison showing miniature objects next to ruler measurements and real-world references.",
+    "image": "Scale comparison showing miniature objects next to ruler measurements and real-world references."
+  },
+  {
+    "id": "detailed-miniature-craftsmanship-showing-perfect-j",
+    "prompt": "Detailed miniature craftsmanship showing perfect joints, clean edges, and artisan-quality finishing.",
+    "size": "300x250",
+    "reasoning": "Required by game-concepts/cozy-diorama/art-style.html - Detailed miniature craftsmanship showing perfect joints, clean edges, and artisan-quality finishing.",
+    "image": "Detailed miniature craftsmanship showing perfect joints, clean edges, and artisan-quality finishing."
+  },
+  {
+    "id": "seasonal-lighting-effects-showing-spring-freshness",
+    "prompt": "Seasonal lighting effects showing spring freshness, summer warmth, autumn richness, and winter crispness.",
+    "size": "300x400",
+    "reasoning": "Required by game-concepts/cozy-diorama/art-style.html - Seasonal lighting effects showing spring freshness, summer warmth, autumn richness, and winter crisp",
+    "image": "Seasonal lighting effects showing spring freshness, summer warmth, autumn richness, and winter crispness."
+  },
+  {
+    "id": "mood-lighting-examples-showing-romantic-cozy-drama",
+    "prompt": "Mood lighting examples showing romantic, cozy, dramatic, and peaceful diorama atmospheres.",
+    "size": "300x400",
+    "reasoning": "Required by game-concepts/cozy-diorama/art-style.html - Mood lighting examples showing romantic, cozy, dramatic, and peaceful diorama atmospheres.",
+    "image": "Mood lighting examples showing romantic, cozy, dramatic, and peaceful diorama atmospheres."
+  },
+  {
+    "id": "seasonal-asset-pack-preview-showing-spring-gardens",
+    "prompt": "Seasonal asset pack preview showing spring gardens, autumn harvest, winter holiday, and summer items.",
+    "size": "300x250",
+    "reasoning": "Required by game-concepts/cozy-diorama/monetization.html - Seasonal asset pack preview showing spring gardens, autumn harvest, winter holiday, and summer items",
+    "image": "Seasonal asset pack preview showing spring gardens, autumn harvest, winter holiday, and summer items."
+  },
+  {
+    "id": "hobby-themed-miniature-items-showing-books-music-a",
+    "prompt": "Hobby-themed miniature items showing books, music, art supplies, and crafting materials.",
+    "size": "300x250",
+    "reasoning": "Required by game-concepts/cozy-diorama/monetization.html - Hobby-themed miniature items showing books, music, art supplies, and crafting materials.",
+    "image": "Hobby-themed miniature items showing books, music, art supplies, and crafting materials."
+  },
+  {
+    "id": "heavy-tactical-bruiser-with-bulky-armor-riot-shiel",
+    "prompt": "Heavy tactical bruiser with bulky armor, riot shield, and imposing presence.",
+    "size": "300x400",
+    "reasoning": "Required by game-concepts/micro-extraction/art-style.html - Heavy tactical bruiser with bulky armor, riot shield, and imposing presence.",
+    "image": "Heavy tactical bruiser with bulky armor, riot shield, and imposing presence."
+  },
+  {
+    "id": "industrial-facility-details-showing-steam-pipes-fl",
+    "prompt": "Industrial facility details showing steam pipes, flickering lights, rust stains, and atmospheric particle effects.",
+    "size": "600x350",
+    "reasoning": "Required by game-concepts/micro-extraction/art-style.html - Industrial facility details showing steam pipes, flickering lights, rust stains, and atmospheric par",
+    "image": "Industrial facility details showing steam pipes, flickering lights, rust stains, and atmospheric particle effects."
+  },
+  {
+    "id": "industrial-lighting-setup-showing-harsh-fluorescen",
+    "prompt": "Industrial lighting setup showing harsh fluorescents, emergency lighting, and dramatic shadows.",
+    "size": "300x250",
+    "reasoning": "Required by game-concepts/micro-extraction/art-style.html - Industrial lighting setup showing harsh fluorescents, emergency lighting, and dramatic shadows.",
+    "image": "Industrial lighting setup showing harsh fluorescents, emergency lighting, and dramatic shadows."
+  },
+  {
+    "id": "crop-growth-stages-from-seed-to-harvest-with-time-",
+    "prompt": "Crop growth stages from seed to harvest with time indicators.",
+    "size": "300x200",
+    "reasoning": "Required by game-concepts/social-idle-farm/gameplay.html - Crop growth stages from seed to harvest with time indicators.",
+    "image": "Crop growth stages from seed to harvest with time indicators."
+  },
+  {
+    "id": "cute-farm-animals-chickens-cows-sheep-with-happine",
+    "prompt": "Cute farm animals (chickens, cows, sheep) with happiness indicators and production items.",
+    "size": "300x200",
+    "reasoning": "Required by game-concepts/social-idle-farm/gameplay.html - Cute farm animals (chickens, cows, sheep) with happiness indicators and production items.",
+    "image": "Cute farm animals (chickens, cows, sheep) with happiness indicators and production items."
+  },
+  {
+    "id": "resource-management-interface-showing-coins-materi",
+    "prompt": "Resource management interface showing coins, materials, energy, and premium currency.",
+    "size": "300x200",
+    "reasoning": "Required by game-concepts/social-idle-farm/gameplay.html - Resource management interface showing coins, materials, energy, and premium currency.",
+    "image": "Resource management interface showing coins, materials, energy, and premium currency."
+  },
+  {
+    "id": "cute-farm-animals-in-cottagecore-style---chickens-",
+    "prompt": "Cute farm animals in cottagecore style - chickens, cows, sheep, pigs with soft features and warm colors.",
+    "size": "300x400",
+    "reasoning": "Required by game-concepts/social-idle-farm/art-style.html - Cute farm animals in cottagecore style - chickens, cows, sheep, pigs with soft features and warm col",
+    "image": "Cute farm animals in cottagecore style - chickens, cows, sheep, pigs with soft features and warm colors."
+  },
+  {
+    "id": "diverse-group-of-friendly-npcs-in-cottagecore-atti",
+    "prompt": "Diverse group of friendly NPCs in cottagecore attire representing different ages and backgrounds.",
+    "size": "300x400",
+    "reasoning": "Required by game-concepts/social-idle-farm/art-style.html - Diverse group of friendly NPCs in cottagecore attire representing different ages and backgrounds.",
+    "image": "Diverse group of friendly NPCs in cottagecore attire representing different ages and backgrounds."
+  },
+  {
+    "id": "pastoral-farm-landscape-with-rolling-hills-stone-w",
+    "prompt": "Pastoral farm landscape with rolling hills, stone walls, wildflower meadows, and a babbling brook.",
+    "size": "600x350",
+    "reasoning": "Required by game-concepts/social-idle-farm/art-style.html - Pastoral farm landscape with rolling hills, stone walls, wildflower meadows, and a babbling brook.",
+    "image": "Pastoral farm landscape with rolling hills, stone walls, wildflower meadows, and a babbling brook."
+  },
+  {
+    "id": "mobile-navigation-interface-with-cottagecore-styli",
+    "prompt": "Mobile navigation interface with cottagecore styling, showing inventory, map, social features.",
+    "size": "300x250",
+    "reasoning": "Required by game-concepts/social-idle-farm/art-style.html - Mobile navigation interface with cottagecore styling, showing inventory, map, social features.",
+    "image": "Mobile navigation interface with cottagecore styling, showing inventory, map, social features."
+  },
+  {
+    "id": "seasonal-farm-themes-showing-spring-florals-summer",
+    "prompt": "Seasonal farm themes showing spring florals, summer tropics, autumn harvest, and winter wonderland decorations.",
+    "size": "300x250",
+    "reasoning": "Required by game-concepts/social-idle-farm/monetization.html - Seasonal farm themes showing spring florals, summer tropics, autumn harvest, and winter wonderland d",
+    "image": "Seasonal farm themes showing spring florals, summer tropics, autumn harvest, and winter wonderland decorations."
+  },
+  {
+    "id": "cute-farm-animals-with-various-cosmetic-accessorie",
+    "prompt": "Cute farm animals with various cosmetic accessories like hats, bows, and seasonal outfits.",
+    "size": "300x250",
+    "reasoning": "Required by game-concepts/social-idle-farm/monetization.html - Cute farm animals with various cosmetic accessories like hats, bows, and seasonal outfits.",
+    "image": "Cute farm animals with various cosmetic accessories like hats, bows, and seasonal outfits."
+  }
+]

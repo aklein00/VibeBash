@@ -1,0 +1,22 @@
+{
+    "Evil_Fangs": {
+        "left_eye": {"col": 3, "row": 7},
+        "right_eye": {"col": 3, "row": 7},
+        "mouth": {"col": 4, "row": 0}
+    },
+    "Smug": {
+        "left_eye": {"col": 2, "row": 7},
+        "right_eye": {"col": 2, "row": 7},
+        "mouth": {"col": 2, "row": 0}
+    },
+    "Very_Worried": {
+        "left_eye": {"col": 1, "row": 7},
+        "right_eye": {"col": 1, "row": 7},
+        "mouth": {"col": 1, "row": 0}
+    },
+    "Disgust": {
+        "left_eye": {"col": 4, "row": 7},
+        "right_eye": {"col": 4, "row": 7},
+        "mouth": {"col": 3, "row": 0}
+    }
+}

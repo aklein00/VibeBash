@@ -1,0 +1,18 @@
+{
+  "name": "Mobile Background NPC",
+  "description": "Low-detail background character for mobile games",
+  "target_tri_count": 4000,
+  "target_quad_count": 2000,
+  "density_weights": {
+    "face": 1.4,
+    "hands": 0.8,
+    "joints": 1.1,
+    "torso": 0.7,
+    "limbs": 0.8
+  },
+  "polyretopo_settings": {
+    "faceUniformity": 0.5,
+    "anisotropy": 0.5,
+    "preserveHardEdges": true
+  }
+}

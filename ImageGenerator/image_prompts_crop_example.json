@@ -1,0 +1,31 @@
+{
+  "images": [
+    {
+      "id": "character-fullsize",
+      "prompt": "Example: Keep full DALL-E resolution",
+      "image": "A fantasy warrior character with sword and shield",
+      "size": "512x512",
+      "crop": false
+    },
+    {
+      "id": "landscape-fullsize",
+      "prompt": "Example: Keep full DALL-E resolution (default behavior)",
+      "image": "Mountain landscape with sunset and clouds",
+      "size": "600x400"
+    },
+    {
+      "id": "ui-button-exact",
+      "prompt": "Example: Crop to exact dimensions for UI element",
+      "image": "Modern UI button with play icon",
+      "size": "128x64",
+      "crop": true
+    },
+    {
+      "id": "app-icon-exact",
+      "prompt": "Example: Crop to exact dimensions for app icon",
+      "image": "Colorful app icon with abstract geometric shapes",
+      "size": "256x256",
+      "crop": true
+    }
+  ]
+}

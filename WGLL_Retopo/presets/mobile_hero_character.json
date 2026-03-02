@@ -1,0 +1,18 @@
+{
+  "name": "Mobile Hero Character",
+  "description": "High-detail hero character for mobile games (closest to camera)",
+  "target_tri_count": 12000,
+  "target_quad_count": 6000,
+  "density_weights": {
+    "face": 1.8,
+    "hands": 1.5,
+    "joints": 1.3,
+    "torso": 0.6,
+    "limbs": 0.8
+  },
+  "polyretopo_settings": {
+    "faceUniformity": 0.3,
+    "anisotropy": 0.75,
+    "preserveHardEdges": true
+  }
+}

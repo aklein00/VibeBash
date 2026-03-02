@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Output files
+output/3d_models/*.glb
+output/3d_models/*.obj
+output/3d_models/*.fbx
+output/3d_models/*.mtl
+output/3d_models/*.json
+!output/3d_models/.gitkeep
+
+# Cache
+cache/
+.cache/
+*.cache
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# API Keys and Secrets
+.env
+secrets.json
+api_keys.txt
+*.key
+
+# Model weights (large files)
+models/*.pt
+models/*.pth
+models/*.ckpt
+models/*.safetensors
+
+# Test outputs
+test_outputs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# ComfyUI specific
+comfy_extras/

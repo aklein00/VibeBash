@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Game Manager</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Game Manager</h1>
+    <div class="header-right">
+      <button id="analyze-projects" class="version-btn">Analyze Projects</button>
+      <button id="check-versions" class="version-btn">Check Versions</button>
+      <span id="version-scan-age" class="version-scan-age"></span>
+      <div id="stats" class="stats"></div>
+    </div>
+  </header>
+
+  <div class="controls">
+    <input type="text" id="search" placeholder="Search projects..." autocomplete="off">
+    <div id="filters" class="filter-bar"></div>
+  </div>
+
+  <main id="grid" class="grid"></main>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-backdrop"></div>
+    <div class="modal-content">
+      <button class="modal-close">&times;</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
