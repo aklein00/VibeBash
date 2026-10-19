@@ -1,0 +1,22 @@
+---
+description: Example agent workflow for the ProjectWorkflow vault. After this file is copied to .cursor/rules, it applies only while files under ProjectWorkflow are in play.
+globs: ProjectWorkflow/**/*
+alwaysApply: false
+---
+
+# Project workflow
+
+This rule is an example. Cursor does not load it from `ProjectWorkflow/cursor/`. It loads rules from `.cursor/rules/` at the repository root. Copying it there makes it apply while you are in the other VibeBash projects too, and it can fight the root `CLAUDE.md`. Leave it here until you mean to turn that on.
+
+## When this rule is on
+
+- The shared memory is `ProjectWorkflow/vault`. Start at `vault/Home.md` and the latest daily note's index.
+- For a campaign, email, or ad brief, read the matching file in `vault/jobs/` and follow its links. Append the draft. Do not invent a new note per draft.
+- For a code change, read `vault/jobs/Ship-Change/Ship-Change.md`. Edit the files the spec names. Show the diff.
+- Before you finish, append one index line to today's file in `vault/daily/`. If you skip this, the next chat starts blank. That is the Cursor-specific failure.
+- Do not put keys, customer lists, or billing exports in the vault. This repo is public.
+- Fieldnote is fictional.
+
+## How this place differs
+
+Cursor is the better place to edit code while someone is watching the diff. It is a poor system of record. Obsidian and Claude Code keep the graph. Codex is the better place to run a job that is already fully specified and does not need you in the loop. A Cursor cloud agent sees git. It does not see an Obsidian vault that exists only on your computer.
