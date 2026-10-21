@@ -1,0 +1,128 @@
+{
+  "studio": [
+    {
+      "id": "O01",
+      "title": "Brief & success",
+      "owner": "Product + Live Ops",
+      "input": "Player need, calendar and business goal",
+      "decision": "Choose one primary player outcome and a measurable success metric.",
+      "output": "Event brief, feature scope, owner and success criteria",
+      "gate": "Avoid conflicting goals such as maximal play time and shortest sessions."
+    },
+    {
+      "id": "O02",
+      "title": "Audience & eligibility",
+      "owner": "Product + Data",
+      "input": "Progress, tenure, region and account eligibility",
+      "decision": "Define segment, exclusions, enrollment and cohort rules.",
+      "output": "Versioned audience query and eligibility reason codes",
+      "gate": "FTUE suppression, age restrictions, new/returning cohorts and rollout holdout."
+    },
+    {
+      "id": "O03",
+      "title": "Rules & economy",
+      "owner": "Game Design + Economy",
+      "input": "Core mode, score model and reward budget",
+      "decision": "Specify entry cost, point caps, tie-breaks and reward tables.",
+      "output": "Balanced configuration, sources/sinks and duplicate conversion",
+      "gate": "Review stockpiling, spending advantage, exploit potential and progression inflation."
+    },
+    {
+      "id": "O04",
+      "title": "Schedule & surfaces",
+      "owner": "Live Ops + CRM",
+      "input": "Season calendar, timezones and channel slots",
+      "decision": "Set teaser, enroll, start, play_end, results, claim and exchange deadlines.",
+      "output": "Server-time schedule, deep links, slot priority and message caps",
+      "gate": "Do not interrupt FTUE or gameplay; critical service messages outrank marketing."
+    },
+    {
+      "id": "O05",
+      "title": "Configure & localize",
+      "owner": "Content + Engineering",
+      "input": "Approved rules, content IDs and string keys",
+      "decision": "Bind assets, SKU, reward IDs, localization and accessibility.",
+      "output": "Draft config version and localized preview for every state",
+      "gate": "No missing fallback strings, unpriced SKU, clipped translations or unsupported variants."
+    },
+    {
+      "id": "O06",
+      "title": "QA & rehearsal",
+      "owner": "QA + Engineering + Design",
+      "input": "Frozen candidate version and test accounts",
+      "decision": "Rehearse all lifecycle boundaries and adverse outcomes.",
+      "output": "Test evidence, signoffs, dashboards and rollback rehearsal",
+      "gate": "Clock boundaries, restart, duplicate claim, no-fill ad, receipt pending and reward overflow pass."
+    },
+    {
+      "id": "O07",
+      "title": "Approve & stage",
+      "owner": "Release owner",
+      "input": "QA results and accountable signoffs",
+      "decision": "Approve the exact version; schedule a staged rollout.",
+      "output": "Immutable release version, rollout percentages and rollback target",
+      "gate": "Use cohort visibility, preview accounts and a kill switch; freeze rules after enrollment."
+    },
+    {
+      "id": "O08",
+      "title": "Launch & monitor",
+      "owner": "Live Ops + On-call + Data",
+      "input": "Staged release and live telemetry",
+      "decision": "Expand only when delivery, fairness and health metrics stay within limits.",
+      "output": "Launch log and intervention decisions with named owner",
+      "gate": "Pause or rollback for critical delivery, crash or exploit thresholds; thresholds are project-specific."
+    },
+    {
+      "id": "O09",
+      "title": "Close & reconcile",
+      "owner": "Backend + Live Ops + Support",
+      "input": "Cutoff, accepted results and final standings",
+      "decision": "Lock scores, audit ties, settle once and apply grace policy.",
+      "output": "Final results, claim window, inbox fallbacks and compensation",
+      "gate": "Late results, revoked eligibility, outages and token expiry follow published rules."
+    },
+    {
+      "id": "O10",
+      "title": "Learn & reuse",
+      "owner": "Product + Data + Design",
+      "input": "Cohort outcomes, player feedback and operational incidents",
+      "decision": "Compare against baseline or holdout; record cause and change.",
+      "output": "Readout, reusable recipe and next version backlog",
+      "gate": "Review retention, participation, reward cost and complaints; do not infer causality without evidence."
+    }
+  ],
+  "recipes": [
+    [
+      "Daily / weekly quests",
+      "Normal gameplay \u2192 capped objectives \u2192 claims. Segment by unlocked mechanics. Use server-time reset."
+    ],
+    [
+      "Solo milestone / collection",
+      "Earn points \u2192 thresholds \u2192 claims. Show point sources, caps, rewards and grace."
+    ],
+    [
+      "Leaderboard / tournament",
+      "Enroll \u2192 cohort \u2192 qualifying / final \u2192 verified standings \u2192 payout. Publish ties and accepted-match cutoff."
+    ],
+    [
+      "Club / alliance cooperation",
+      "Roster \u2192 individual contribution \u2192 shared goal \u2192 eligible reward. Define joining, leaving and minimum contribution."
+    ],
+    [
+      "Season pass",
+      "Normal play \u2192 season XP \u2192 free / premium tiers \u2192 claims \u2192 rollover. Show retroactive entitlement and claim policy."
+    ],
+    [
+      "Limited-time challenge",
+      "Alternate rules \u2192 attempts or tickets \u2192 result \u2192 reward. Preview entry, caps and retry policy."
+    ],
+    [
+      "Token exchange / event shop",
+      "Earn tokens \u2192 preview \u2192 confirm \u2192 grant. Define stock, limits, conversion and exchange deadline."
+    ],
+    [
+      "Returner / catch-up",
+      "Inactivity eligibility \u2192 recap \u2192 familiar win \u2192 catch-up goal. Cap prompts and preserve progress."
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "screen_count": 106,
+  "control_route_count": 663,
+  "system_branch_count": 38,
+  "broken_targets": [],
+  "board_count": 21,
+  "figma_native_prototypes": false,
+  "preview_type": "Navigation prototype with illustrative state snapshots",
+  "svg_json_routes_match": true,
+  "controls_within_phone_bounds": true,
+  "raster_images": 0,
+  "successful_figma_imports": 21,
+  "browser_walks": [
+    "FTUE T01 through T10 to B01",
+    "Ranked battle to chest speedup, 3 reward reveals and Knight upgrade",
+    "500-Gem pack to matching receipt delivery",
+    "Crown Rush entry, event queue, event match, score and milestone claim"
+  ],
+  "figma_visual_check": "Battle sheet 10:4645 verified in Figma browser view"
+}

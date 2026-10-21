@@ -1,0 +1,170 @@
+[
+  {
+    "file": "01-01-FTUE.svg",
+    "success": true,
+    "imageHash": "f42fb147f77be61f5acfc05c8915a85f558b4447",
+    "sizeBytes": 41023,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:908"
+  },
+  {
+    "file": "01-02-FTUE.svg",
+    "success": true,
+    "imageHash": "4f2922759b73535783682708be0a3c043eedd4db",
+    "sizeBytes": 20952,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:308"
+  },
+  {
+    "file": "02-01-Core-battle.svg",
+    "success": true,
+    "imageHash": "cdfa3955ec6bba813592536bd05fc057c6bfeeb9",
+    "sizeBytes": 91828,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:4645"
+  },
+  {
+    "file": "02-02-Core-battle.svg",
+    "success": true,
+    "imageHash": "42efd30dd8f5f7d2e276e6e04174692566598a90",
+    "sizeBytes": 42078,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:4295"
+  },
+  {
+    "file": "03-01-Chest-lifecycle.svg",
+    "success": true,
+    "imageHash": "466663383c6bd0b0a9c3bfc080a27ee284d2521e",
+    "sizeBytes": 60657,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:2488"
+  },
+  {
+    "file": "03-02-Chest-lifecycle.svg",
+    "success": true,
+    "imageHash": "dd583177ff5dd2039a0f687fb2bf87a184eaa936",
+    "sizeBytes": 52143,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:472"
+  },
+  {
+    "file": "04-01-Collection.svg",
+    "success": true,
+    "imageHash": "19f5393d36a3747654c315a75a5e9e0ed775c559",
+    "sizeBytes": 98369,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:2998"
+  },
+  {
+    "file": "04-02-Collection.svg",
+    "success": true,
+    "imageHash": "ac6b2559f1de0806f4a241fcdbda7630dd444bd7",
+    "sizeBytes": 72069,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:1877"
+  },
+  {
+    "file": "04-03-Collection.svg",
+    "success": true,
+    "imageHash": "67876bbf8fd1a019faa9a858f2dd88080a084043",
+    "sizeBytes": 24492,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:6408"
+  },
+  {
+    "file": "05-01-Economy.svg",
+    "success": true,
+    "imageHash": "59ee8e5c1ea0e96a4969d2656dae6b235dcd9bb0",
+    "sizeBytes": 72462,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:5424"
+  },
+  {
+    "file": "05-02-Economy.svg",
+    "success": true,
+    "imageHash": "111df543b8b500d4354ea45e66f9ff628b3ef934",
+    "sizeBytes": 55195,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:3837"
+  },
+  {
+    "file": "05-03-Economy.svg",
+    "success": true,
+    "imageHash": "203119875d024b88e60a07492a0d2afd25d9f151",
+    "sizeBytes": 44494,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:6039"
+  },
+  {
+    "file": "07-01-Clan-and-service.svg",
+    "success": true,
+    "imageHash": "cf587297368b72c16386f7f95978104104afd1a6",
+    "sizeBytes": 74497,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:1242"
+  },
+  {
+    "file": "07-02-Clan-and-service.svg",
+    "success": true,
+    "imageHash": "11b56bb69873812469fe328406deb851754d238b",
+    "sizeBytes": 57325,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:6612"
+  },
+  {
+    "file": "07-03-Clan-and-service.svg",
+    "success": true,
+    "imageHash": "c965468384a272aca1b04e5bfc8f0fe84dc49128",
+    "sizeBytes": 27955,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:7090"
+  },
+  {
+    "file": "06-01-Live-ops.svg",
+    "success": true,
+    "imageHash": "d034a3c15e30772b3a20e3df63859ccccc75e664",
+    "sizeBytes": 71079,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:8644"
+  },
+  {
+    "file": "06-02-Live-ops.svg",
+    "success": true,
+    "imageHash": "f94fefddcde98c16e0c4b5234467eaa3ec7ed383",
+    "sizeBytes": 67139,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:7320"
+  },
+  {
+    "file": "06-03-Live-ops.svg",
+    "success": true,
+    "imageHash": "8954f28b3b8098174e802831087917828e3b57af",
+    "sizeBytes": 60344,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:9241"
+  },
+  {
+    "file": "06-04-Live-ops.svg",
+    "success": true,
+    "imageHash": "9de873c757252fb96b7a6050710ce6a9df7f08ee",
+    "sizeBytes": 53407,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:7886"
+  },
+  {
+    "file": "06-05-Live-ops.svg",
+    "success": true,
+    "imageHash": "cc091ae5befb3d63b13e6cec5080947711427ae9",
+    "sizeBytes": 37527,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:8334"
+  },
+  {
+    "file": "00-Start-Here.svg",
+    "success": true,
+    "imageHash": "f7c9fda8cbf0e2b4bdc55ef994222c8ee3472648",
+    "sizeBytes": 12574,
+    "contentType": "image/svg+xml",
+    "placedOnNodeId": "10:9745"
+  }
+]
